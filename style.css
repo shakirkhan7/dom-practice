@@ -10,6 +10,11 @@ body{
     max-height: 1350px;
 }
 
+main{
+    font-size: 25px;
+    color: green;
+}
+
 #addButton{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 background-color: gray;

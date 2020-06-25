@@ -56,7 +56,7 @@ buttonElement.setAttribute('fontColor','red');
 // Create remove Event Listener
 const removeButton = document.querySelector('#removeButton');
 removeButton.addEventListener('click', function(){
-    body.remove();
+    main.remove();
 })
 
 // create AElements
